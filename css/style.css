@@ -1,0 +1,12 @@
+.image {
+    max-height: 350px;
+    width: auto;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
