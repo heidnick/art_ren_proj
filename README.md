@@ -1,4 +1,4 @@
-<h1>Art Rennaisance Project</h1>
+<h1>Art Renaissance Project</h1>
 
 <b>Included Tech:</b>
   - Vue.js
