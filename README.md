@@ -1,4 +1,4 @@
-Art Rennaisance Project
+<h1>Art Rennaisance Project</h1>
 
 Included Tech:
   - Vue.js
