@@ -6,7 +6,7 @@
   - CSS
 
 <b>Purpose:</b>
-  Expanding my Vue skills while completing a general course requirement.
+  - Expanding my Vue skills while completing a general course requirement.
   
 <b>Instructions:</b>
   - Clone repository to local folder
